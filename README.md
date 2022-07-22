@@ -1,2 +1,3 @@
-# welcome-git
-Welcome to git. I wanna learn how to use git and github
+# 欢迎来到Git和Github
+
+该项目目的为个人学习git基本使用创建。
