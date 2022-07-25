@@ -4,4 +4,4 @@
 
 
 
-Git客户端使用[smartGit](https://www.syntevo.com/smartgit/)
+Git客户端使用[sublime merge](https://www.sublimemerge.com/)
